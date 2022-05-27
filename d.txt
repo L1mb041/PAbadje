@@ -1,0 +1,27 @@
+speed Infinity
+pen purple, 10
+for [1..4]
+  fd 400
+  rt 90
+jumpto 90, 117
+rt 90
+fd 60
+pen purple, 10
+jumpto 200, 70
+fd 80
+rt 180
+bk 60
+fd 150
+rt 90
+fd 150
+jumpto 100, 333
+pen purple, 10
+rt 90
+fd 150
+rt 90
+fd 100
+lt 90
+fd 100
+jumpto 0, 222
+pen purple, 10
+fd 100
